@@ -1,0 +1,6 @@
+{
+  "name": "SIPRS",
+  "description": "Sistem Informasi Pendaftaran Online Rumah Sakit - Registrasi Rawat Jalan, e-Ticket Modern, Pemantauan Antrean Real-time, dan Dasbor Analitis Admin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
